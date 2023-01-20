@@ -1,6 +1,21 @@
 # WebAutomation01
-This project runs on Intellij IDEA
 
+This is a demo project for searching specific word in google and check if a particular information can be found in Wikipedia
+
+
+Project Details:
+Intellij
+Selenium
+Java
+Maven
+
+Project structure
+The test classes are in src/test/java
+
+How to run the tests?
+Pre-requisite: You need to have maven & JDK 11 installed on your system.
+
+What does it do?
 1) Opens google chrome driver
 2) Search for "automatización"
 3) Scans for Wikipedia hyperlink and open it
